@@ -22,7 +22,7 @@ class User extends Controller {
 			redirect('/auth/login');
 		}
 	}
-	
+	alksdjflkajsdlk			sefs	eachf	savedd	fscanfd	f_uactives	dataf	sdgh	savedrg	savedrsr	gc_collect_cyclessr	gc_collect_cyclessrf	gc_collect_cyclessrer	gc_collect_cyclesser	gc_collect_cycles
 	function _remap($method) {
 		$this->load->view('header_v');
 		$this->{$method}();
