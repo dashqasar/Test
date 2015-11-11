@@ -6,7 +6,23 @@
 		}
 	}
 //-->
-</script>
+</script>zjkclkvj
+datefb
+xml_error_stringfb
+xml_error_stringfdb
+xml_error_stringdf
+bx
+dfbxf
+band_namex
+fbxc
+vb
+xf
+band_namex
+dfbxfb
+xf
+fbsql_affected_rowsb
+xfb
+
 <table class="tbl" cellpadding="2" cellspacing="1" width="660" style="text-align:center">
 	<tr>
 		<th width="30">No.</th>
