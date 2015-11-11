@@ -6,7 +6,7 @@ $config['pay_type'] = array(
 	'credit'	=>	'Credit',
 	'paypal'	=>	'PayPal',
 );
-
+https://github.com/dashqasar/Testhttps://github.com/dashqasar/Testhttps://github.com/dashqasar/Testhttpshttps://github.com/dashqasar/Testhttps://github.com/dashqasar/Testhttps://github.com/dashqasar/Testhttps://github.com/dashqasar/Testhttps://github.com/dashqasar/Testhttps://github.com/dashqasar/Testhttps://github.com/dashqasar/Testhttps://github.com/dashqasar/Testhttps://github.com/dashqasar/Test
 $config['user_type'] = array(
 	0	=>	'Band',
 	2	=>	'Manager',
